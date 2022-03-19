@@ -38,6 +38,7 @@ lib/src/**/**.gr.dart
 lib/src/**/**.config.dart
 lib/src/**/**.freezed.dart
 lib/src/**/**.g.dart
+lib/l10n/generated/
 
 # Symbolication related
 app.*.symbols
