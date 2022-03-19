@@ -34,6 +34,11 @@
 # Web related
 lib/generated_plugin_registrant.dart
 
+lib/src/**/**.gr.dart
+lib/src/**/**.config.dart
+lib/src/**/**.freezed.dart
+lib/src/**/**.g.dart
+
 # Symbolication related
 app.*.symbols
 
